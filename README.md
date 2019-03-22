@@ -2,4 +2,4 @@
 ## Built with:
   Html, Css & Js
   
-  ![alt text](https://imgur.com/gPDb72P)
+  ![alt text](https://i.imgur.com/gPDb72P.jpg)
